@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d95748c4-a06e-4734-9614-7a628ac6e875" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DIOIhVDuv3n7lf1e60cRi5qvwL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "18 (3)",
+    "last_opened_file_path": "D:/ideaProject/JavaSE_Code",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaProject\idea_test\src\com\itheima" />
+      <recent name="D:\ideaProject\JavaSE_Code" />
+      <recent name="D:\ideaProject\JavaSE_Code\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaProject\JavaSE_Code" />
+      <recent name="D:\ideaProject\JavaSE_Code\idea_Test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StudentManager">
+    <configuration name="ArrayListDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima04.ArrayListDemo01" />
+      <module name="idea_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima04.ArrayListDemo02" />
+      <module name="idea_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListDemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima04.ArrayListDemo03" />
+      <module name="idea_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuilderTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima03.StringBuilderTest02" />
+      <module name="idea_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima05.StudentManager" />
+      <module name="idea_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StudentManager" />
+        <item itemvalue="Application.ArrayListDemo03" />
+        <item itemvalue="Application.ArrayListDemo02" />
+        <item itemvalue="Application.ArrayListDemo01" />
+        <item itemvalue="Application.StringBuilderTest02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d95748c4-a06e-4734-9614-7a628ac6e875" name="Changes" comment="" />
+      <created>1660383054959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660383054959</updated>
+      <workItem from="1660383056230" duration="3415000" />
+      <workItem from="1660647106850" duration="11166000" />
+      <workItem from="1660737007564" duration="1518000" />
+      <workItem from="1660825134650" duration="94000" />
+      <workItem from="1660825230551" duration="112000" />
+      <workItem from="1660825408401" duration="234000" />
+      <workItem from="1660825655666" duration="371000" />
+      <workItem from="1660826067495" duration="154000" />
+      <workItem from="1660826256411" duration="349000" />
+      <workItem from="1660826615976" duration="1294000" />
+      <workItem from="1660827927300" duration="596000" />
+      <workItem from="1660832429874" duration="166000" />
+      <workItem from="1660832678671" duration="69000" />
+      <workItem from="1660832755938" duration="515000" />
+      <workItem from="1660880180955" duration="13655000" />
+      <workItem from="1660973914489" duration="31477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/idea_Test/src/com/itheima01/DebugTest01.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/idea_Test/src/com/itheima01/DebugTest02.java</url>
+          <line>12</line>
+          <properties class="com.itheima01.DebugTest02">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="s1.age" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaSE_Code$DebugTest02__1_.ic" NAME="DebugTest02 (1) 覆盖结果" MODIFIED="1660825990656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.itheima01.*</FILTER>
+    </SUITE>
+  </component>
+</project>
